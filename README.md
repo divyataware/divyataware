@@ -102,6 +102,7 @@ Passionate about transforming data into actionable insights and building respons
 </p>
 
 ---
+<!--
 
 ## 📈 Contribution Graph
 
@@ -112,6 +113,7 @@ Passionate about transforming data into actionable insights and building respons
 </p>
 
 ---
+-->
 
 ## 🐍 Contribution Snake
 
