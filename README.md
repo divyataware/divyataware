@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Divya Taware</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | Frontend Developer | Lifelong Learner</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Lifelong Learner</h3>
 
 <p align="center">
 Passionate about transforming data into actionable insights and building responsive web applications.
@@ -11,8 +11,7 @@ Passionate about transforming data into actionable insights and building respons
 ## 👩‍💻 About Me
 
 - 📊 Currently learning **SQL, Python, Power BI & Excel**
-- 💻 Exploring **Frontend Development with React**
-- 🚀 Building real-world Data Analytics & Web Development projects
+- 🚀 Building real-world Data Analytics projects
 - 🎯 Goal: Become a **Data Analyst**
 - 🌱 Learning every day and improving my problem-solving skills
 
@@ -59,7 +58,7 @@ Passionate about transforming data into actionable insights and building respons
 
 ### 📊 Data Analytics
 
-- 📈 SQL E-Commerce Sales Analysis
+- 📊 Excel-Sales-Dashboard 
 - 📊 Power BI Dashboards
 - 🐍 Python Data Analysis
 - 📑 Excel Dashboard Projects
@@ -76,7 +75,6 @@ Passionate about transforming data into actionable insights and building respons
 - Advanced SQL
 - Python for Data Analysis
 - Power BI
-- React.js
 
 ---
 
