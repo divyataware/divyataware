@@ -137,7 +137,7 @@ Currently learning and practicing:
 ## 💻 Programming Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 </p>
 
 ---
