@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Divya Taware</h1>
 
-<h3 align="center">📊 Aspiring Data Analyst | Lifelong Learner</h3>
+<h3 align="center">📊 Aspiring Data Analyst | SQL | Power BI | Excel | Python</h3>
 
 <p align="center">
-Passionate about transforming data into actionable insights and building responsive web applications.
+Interested in using data to find patterns, answer business questions, and create meaningful insights.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 📊 Currently learning **SQL, Python, Power BI & Excel**
-- 🚀 Building real-world Data Analytics projects
-- 🎯 Goal: Become a **Data Analyst**
-- 🌱 Learning every day and improving my problem-solving skills
+- 📊 Learning and practicing **SQL, Python, Power BI & Excel**
+- 🗄️ Building knowledge of **Databases, Data Modeling & Data Analysis**
+- 🚀 Working on practical Data Analytics projects
+- 🎯 Goal: Start my career as a **Data Analyst**
+- 🌱 Improving my SQL, analytical thinking and problem-solving skills through hands-on projects
 
 ---
 
-# 💻 Tech Stack
+# 💻 Skills & Tech Stack
 
 ## 📊 Data Analytics
 
@@ -25,7 +26,111 @@ Passionate about transforming data into actionable insights and building respons
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
+
+### Concepts
+
+- Data Cleaning
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- KPI Analysis
+- Business Insights
+- Descriptive Analysis
+- Basic Statistical Analysis
+
+---
+
+## 🗄️ Database & Data Modeling
+
+### Database
+
+- Relational Databases
+- MySQL
+- Database Schema
+- Tables, Rows & Columns
+- Primary Keys
+- Foreign Keys
+- Relationships
+- Normalization Basics
+
+### SQL
+
+- SELECT
+- WHERE
+- GROUP BY
+- ORDER BY
+- HAVING
+- JOINs
+- Subqueries
+- Aggregate Functions
+- CASE Statements
+- CTEs
+- Window Functions
+- RANK()
+- ROW_NUMBER()
+- Data Filtering & Aggregation
+
+### Data Modeling
+
+- Understanding Table Relationships
+- One-to-One Relationships
+- One-to-Many Relationships
+- Many-to-Many Relationships
+- Fact & Dimension Tables
+- Basic Star Schema Concepts
+- Connecting Data Sources for Analysis
+
+---
+
+## 📈 Power BI
+
+- Data Import & Transformation
+- Power Query
+- Data Cleaning
+- Data Modeling
+- Relationships
+- DAX Basics
+- Calculated Columns
+- Measures
+- KPIs
+- Interactive Dashboards
+- Data Visualization
+- Business Insights
+
+---
+
+## 📑 Microsoft Excel
+
+- Data Cleaning
+- Sorting & Filtering
+- Excel Formulas
+- Lookup Functions
+- IF Functions
+- Conditional Formatting
+- Pivot Tables
+- Charts
+- Dashboard Creation
+- Basic Data Analysis
+
+---
+
+## 🐍 Python for Data Analysis
+
+Currently learning and practicing:
+
+- Python Fundamentals
+- Variables & Data Types
+- Lists, Tuples & Dictionaries
+- Functions
+- Loops & Conditions
+- File Handling
+- Pandas
+- NumPy
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
 
 ---
 
@@ -54,73 +159,72 @@ Passionate about transforming data into actionable insights and building respons
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📊 Data Analytics
+## 📊 Data Analytics Projects
 
-- 📊 Excel-Sales-Dashboard 
-- 📊 Power BI Dashboards
-- 🐍 Python Data Analysis
-- 📑 Excel Dashboard Projects
+### 🚕 Ola Data Analysis
+- SQL analysis using MySQL
+- Excel data cleaning and analysis
+- Power BI dashboard
+- DAX measures
+- Customer and driver analysis
+- Business insights from booking data
 
-### 🌐 Web Development
+### 🎵 Music Store SQL Analysis
+- MySQL database analysis
+- Multiple table JOINs
+- Aggregations and subqueries
+- CTEs and Window Functions
+- Customer spending analysis
+- Genre and artist analysis
 
-- 🛒 Flipkart Clone
-- 🚗 Car Recommendation Website
+### 📊 Excel Sales Dashboard
+- Data cleaning
+- Pivot Tables
+- Excel formulas
+- Sales analysis
+- KPI reporting
+- Interactive dashboard
+
+### 📈 Power BI Dashboard Projects
+- Data transformation
+- Data modeling
+- Relationships
+- DAX measures
+- KPI analysis
+- Interactive visualizations
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Advanced SQL
+- SQL & Database Concepts
+- Data Modeling
 - Python for Data Analysis
-- Power BI
+- Pandas & NumPy
+- Power BI & DAX
+- Data Cleaning
+- Exploratory Data Analysis
+- Business Intelligence
 
 ---
 
-## 📫 Connect With Me
+# 📚 Data Analyst Learning Path
 
-<p>
-<a href="https://www.linkedin.com/in/divya-taware-737300308/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyataware&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-<!--
-
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyataware&theme=tokyo-night"/>
-
-</p>
-
----
--->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<h3 align="center">
-💡 Turning Data into Insights & Ideas into Reality 🚀
-</h3>
+```text
+Database
+    ↓
+SQL
+    ↓
+Data Cleaning
+    ↓
+Data Modeling
+    ↓
+Data Analysis
+    ↓
+Data Visualization
+    ↓
+Dashboard & KPIs
+    ↓
+Business Insights
